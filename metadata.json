@@ -1,0 +1,6 @@
+{
+  "name": "IoT Battery Health & Predictive Maintenance Dashboard",
+  "description": "Real-time telemetry, AI-powered State of Health (SoH) and Remaining Useful Life (RUL) estimation, thermal anomaly detection, and solar charging optimization for ESP32 battery systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
